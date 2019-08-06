@@ -3,8 +3,7 @@ import './App.css';
 
 class Main extends React.Component {
  
-  render() {
-    
+  render() {   
     return (
       <div>
           Home page       

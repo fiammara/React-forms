@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from "react";
 import './App.css';
 import Main from './Main';
 import SelectOne from './SelectOne';
@@ -6,7 +6,7 @@ import SelectMore from './SelectMore';
 import Header from './Header';
 import { Route, Switch } from 'react-router-dom';
 
-class App extends React.Component {
+class App extends Component {
 
   render() {
 
